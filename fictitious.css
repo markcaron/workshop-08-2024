@@ -154,11 +154,12 @@ button[aria-pressed="true"] {
 
 .Link {
   color: #000;
+  text-decoration: underline;
 }
 
 p .Link {
   color: #0943dd;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /*********
